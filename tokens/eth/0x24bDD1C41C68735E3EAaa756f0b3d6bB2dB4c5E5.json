@@ -1,0 +1,34 @@
+{
+  "symbol": "MTQ",
+  "address": "0x24bDD1C41C68735E3EAaa756f0b3d6bB2dB4c5E5",
+  "decimals": 18,
+  "name": "Metavese Quantum",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://www.metaversequantum.com",
+  "logo": {
+    "src": "https://www.metaversequantum.com/metaversequantum-image-png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "MetaverseQuantum@MetaverseQuantum.com",
+    "url": "https://www.metaversequantum.com/home"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "m.facebook.com/Metaverse-Quantum-108058074767490/posts",
+    "forum": "",
+    "github": "https://github.com/MetaverseQuantum",
+    "gitter": "",
+    "instagram": "www.instagram.com/metaversequantum/",
+    "linkedin": "www.linkedin.com/company/metaverse-quantum",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/YouEngineGroup",
+    "twitter": "twitter.com/mtqquantum?lang=en",
+    "youtube": ""
+  }
+}
